@@ -1,0 +1,3 @@
+Test Case ID,Module,Test Scenario,Test Steps,Expected Result,Actual Result,Status
+TC01,Login,Valid login,Enter valid credentials and click login,Redirect to dashboard,As Expected,Pass
+TC02,Login,Invalid login,Enter invalid credentials and click login,Show error message,Error message displayed,Pass
