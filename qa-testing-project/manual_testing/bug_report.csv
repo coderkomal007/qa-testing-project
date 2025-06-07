@@ -1,0 +1,3 @@
+Bug ID,Summary,Steps to Reproduce,Expected Result,Actual Result,Severity,Priority
+BUG001,Login button not working,Click login with valid data,Redirect to dashboard,No response,Critical,High
+BUG002,Password field accepts less than 6 characters,Enter short password,Show validation error,Accepted password,Major,Medium
